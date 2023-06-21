@@ -1,0 +1,22 @@
+/* .profile {
+}
+
+.description {
+}
+.avatar {
+} */
+.text {
+  color: grey;
+  font-size: 15px;
+}
+.name {
+  color: black;
+  font-size: 20px;
+}
+
+/* .stats {
+} */
+.quantity {
+  color: black;
+  font-size: 20px;
+}
