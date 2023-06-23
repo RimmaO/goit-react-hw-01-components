@@ -8,6 +8,10 @@ export const Section = styled.section`
   background-color: white;
   text-align: center;
 `;
+export const Title = styled.h2`
+  font-size: 15px;
+`;
+
 export const List = styled.ul`
   display: flex;
   justify-content: center;
